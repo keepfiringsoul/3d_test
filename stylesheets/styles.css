@@ -1,0 +1,115 @@
+
+#scene{
+  -webkit-transform-style: preserve-3d;  
+}
+
+.block{
+  position:absolute;
+  width: 150px;
+  height: 200px;
+  background:black;
+}
+
+#b_01{
+   -webkit-transform: translate3d(100px, 20px, 10px);  
+}
+
+#b_02{
+   -webkit-transform: translate3d(550px, 0px, 20px);  
+}
+
+#b_03{
+   -webkit-transform: translate3d(250px, 550px, 30px);  
+}
+
+#b_04{
+   -webkit-transform: translate3d(120px, 250px, 100px);  
+}
+
+#b_05{
+   -webkit-transform: translate3d(50px, 150px, 40px);  
+}
+
+#b_06{
+   -webkit-transform: translate3d(650px, 200px, 50px);  
+}
+
+#b_07{
+   -webkit-transform: translate3d(620px, 350px, 50px);  
+}
+
+#b_08{
+   -webkit-transform: translate3d(300px, 180px, 200px);  
+}
+
+#b_09{
+   -webkit-transform: translate3d(850px, 250px, 600px);  
+}
+
+#b_10{
+   -webkit-transform: translate3d(450px, 350px, 10px);  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*이전 작업 css
+@import url(http://fonts.googleapis.com/css?family=Great+Vibes);
+
+h1 {
+font-family: 'Great Vibes', serif;
+font-size: 100px;
+font-weight: bold;
+color: #333333;
+position: absolute;
+width: 300px;
+text-align: center;
+}
+
+#sprite{
+  display: none;  
+}
+
+p1 {
+position: absolute;
+top: 240px;
+font: italic bold 20px Georgia;
+left: 75px;
+color:#919693;
+}
+
+p2 {
+position: absolute;
+top: 275px;
+font: italic bold 20px Georgia;
+left: 75px;
+color:#919693;
+}
+
+
+#frame {
+background-color: rgba(0,0,0,0.9);
+width: 100%;
+height: 100%;
+position: absolute;
+display: none;
+transition: 2s;
+}
+
+#content {
+display: none;
+  position: absolute;
+  left:10%;
+  top:10%;
+  transition: 2s;
+}
+*/
